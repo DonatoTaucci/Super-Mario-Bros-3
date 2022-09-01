@@ -1,0 +1,6 @@
+x animazioni di mario
+  secret box con moneta/fungo spawnable
+  trasformazione di mario
+  nemico goomba
+  nemico plant + fuoco
+  troopa
